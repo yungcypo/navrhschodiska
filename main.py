@@ -7,7 +7,7 @@ import pygame, sys, os
 
 '''
 TODO
-reková rovina ://
+rezová rovina ://
 '''
 
 

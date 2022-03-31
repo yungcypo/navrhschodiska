@@ -28,7 +28,7 @@ Tento program Vám po zadaní údajov vypočíta potrebné údaje ku schodisku v
 - Ďalej sa už len stačí riadiť pokynmi, ktoré bude program žiadať.
 
 V samotnom programe bude potrebné zadať [konštrukčnú výšku](https://beliana.sav.sk/heslo/konstrukcna-vyska), počet stupňov schodiska, šírku ramena, podesty a medzipodesty, vo verzií *v2* aj šírku zrkadla.  
-[Názvoslovie častí schodiska](https://www.novodrevis.sk/encyklopedia/nazvoslovie-technicke-poziadavky/)
+Ak sú pre vás tieto pojmy neznáme, odporúčam Vám vyhľadať si [názvoslovie častí schodiska](https://www.novodrevis.sk/encyklopedia/nazvoslovie-technicke-poziadavky/)
 
 ## Niečo o programe
 Ako som už spomínal - Tento program nie je určený na profesionálne použitie. Autor nenesie zodpovednosť za prípadné problémy.  

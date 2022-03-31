@@ -1,6 +1,6 @@
 # navrhschodiska
 
-Návrh schodiska
+Návrh schodiska  
 [Čo program ponúka](#%C4%8Do-program-pon%C3%BAka)  
 [Ako použiť program](#ako-pou%C5%BEi%C5%A5-program)  
 [Niečo o programe](#nie%C4%8Do-o-programe)  

@@ -27,7 +27,9 @@ Tento program Vám po zadaní údajov vypočíta potrebné údaje ku schodisku v
 - Po stiahnutí tento súbor rozbalíte, a spustíte *vypocetschodiska-v0.exe*
 - Ďalej sa už len stačí riadiť pokynmi, ktoré bude program žiadať.
 
-V samotnom programe bude potrebné zadať [konštrukčnú výšku](https://beliana.sav.sk/heslo/konstrukcna-vyska), počet stupňov schodiska, šírku ramena, podesty a medzipodesty, vo verzií *v2* aj šírku zrkadla.  
+Pre **stiahnutie súboru** stači otvoriť zložku s Vami vybranou verziou, ďalej otvoriť súbor *vypocetschodiska-v0.zip* a stlačit tlačidlo *download* nachádzajúce sa približne v strede obrazovky napravo.
+
+V **samotnom programe** bude potrebné zadať [konštrukčnú výšku](https://beliana.sav.sk/heslo/konstrukcna-vyska), počet stupňov schodiska, šírku ramena, podesty a medzipodesty, vo verzií *v2* aj šírku zrkadla.  
 Ak sú pre vás tieto pojmy neznáme, odporúčam Vám vyhľadať si [názvoslovie častí schodiska](https://www.novodrevis.sk/encyklopedia/nazvoslovie-technicke-poziadavky/)
 
 ## Niečo o programe

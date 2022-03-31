@@ -1,6 +1,9 @@
 # navrhschodiska
 
-[Návrh schodiska](README.md#navrhschodiska)
+[Návrh schodiska](README.md#navrhschodiska)  
+[]()
+[Ako použiť program](README.md#ako-pou%C5%BEi%C5%A5-program)
+[]()
 
 Tento program Vám po zadaní vypočíta potrebné údaje ku schodisku v stavebnom výkrese:
 - ideálna výška stupňa, šírka stupňa a počet stupňov

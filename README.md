@@ -13,28 +13,35 @@ Návrh schodiska
 ## Čo program ponúka
 Tento program Vám po zadaní údajov vypočíta potrebné údaje ku schodisku v stavebnom výkrese:
 - ideálna výška stupňa, šírka stupňa a počet stupňov
-- podchodná a priechodná výška
 - sklon ramena  
-
-Program tiež narysuje, ako bude schodisko vyzerať (nepodporované vo verzií v1)
+- podchodná a priechodná výška
+- nárys, ako bude schodisko vyzerať (nepodporované vo verzií *v1*)
 
 ## Ako použiť program  
 **Odporúčam používať [najnovšiu verziu](https://github.com/yungcypo/navrhschodiska/tree/main/navrhschodiska-v2)**  
-> *0* je označenie pre verziu, ktorú ste si vybrali
+> *v0* je označenie pre verziu, ktorú ste si vybrali
 - Zo zložky s vybranou verziou si stiahnete súbor *vypocetschodiska-v0.zip*
 - Po stiahnutí tento súbor rozbalíte, a spustíte *vypocetschodiska-v0.exe*
-- Ďalej sa už len stačí riadiť pokynmi, ktoré bude program žiadať
+- Ďalej sa už len stačí riadiť pokynmi, ktoré bude program žiadať.
+
+V samotnom programe bude potrebné zadať [konštrukčnú výšku](https://beliana.sav.sk/heslo/konstrukcna-vyska), počet stupňov schodiska, šírku ramena, podesty a medzipodesty, vo verzií *v2* aj šírku zrkadla.  
+[Názvoslovie častí schodiska](https://www.novodrevis.sk/encyklopedia/nazvoslovie-technicke-poziadavky/)
 
 ## Niečo o programe
-Ako som už spomínal, tento program nie je určený na profesionálne použitie. Autor nenesie zodpovednosť za prípadné problémy.  
-Program vznikol ako školská pomôcka na výpočet schodiska podľa [noriem](https://stavbadomu.sk/staviame-rodinny-dom/vypocet-schodiska-podla-stn-73-4130/)  
+Ako som už spomínal - Tento program nie je určený na profesionálne použitie. Autor nenesie zodpovednosť za prípadné problémy.  
+Program vznikol ako školská pomôcka na výpočet schodiska podľa [noriem](https://stavbadomu.sk/staviame-rodinny-dom/vypocet-schodiska-podla-stn-73-4130/).  
 
+**Program z 'technického' hľadiska**  
 Program je vytvorený v programovacom jazyku [Python](https://www.python.org/) s pomocou nasledovných modulov:  
 - math - pri výpočte sklonu ramena, vo verzií *v1* aj na zaokrúhlovanie niektorých hodnôt  
 - time - vo verzií *v1* na vytvorenie akejsi animácie  
-- [colorama](https://pypi.org/project/colorama/) - vo verzií *v1* na zvýraznenie dôležitých informácií
-- [pygame](https://www.pygame.org/news) - vo verzií *v2* na zobrazenie nárysu schodiska a vypočítaných hodnôt
-- sys, os - v spojení s modulom pygame, pre právne fungovanie
+- [colorama](https://pypi.org/project/colorama/) - vo verzií *v1* na zvýraznenie dôležitých informácií  
+- [pygame](https://www.pygame.org/news) - vo verzií *v2* na zobrazenie nárysu schodiska a vypočítaných hodnôt  
+- sys, os - v spojení s modulom pygame, pre právne fungovanie  
+
+Verzia *v1* funguje výhradne pomocou konzoly. Nie je veľmi estetická, ale na výpočty poslúži dostatočne.  
+Verzia *v2* funguje pomocou konzoly na zadanie potrebných údajov, potom sa objaví nové okno, v ktorom je možno vidieť výsledky výpočtov a samotné schodiska.  
+Verzia *v3 (vo vývoji)* funguje výhradne pomocou okna.  
 
 # Kontakt
 Ak niečo nefunguje správne, našli ste chybu, alebo máte nejaké otázky, prosím neváhajte ma kontaktovať na cypooriginal@gmail.com  

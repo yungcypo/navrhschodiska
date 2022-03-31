@@ -1,7 +1,5 @@
 # navrhschodiska
 
-Návrh schodiska  
-
 **Obsah:**  
 
 [Čo program ponúka](#%C4%8Do-program-pon%C3%BAka)  

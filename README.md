@@ -6,9 +6,9 @@ Návrh schodiska
 [Niečo o programe](#nie%C4%8Do-o-programe)  
 [Kontakt](#kontakt)  
 
-
-> Program nie je určený na profesionálne použitie. Autor nenesie zodpovednosť za prípadné problémy.
-
+> Program nie je určený na profesionálne použitie. Autor nenesie zodpovednosť za prípadné problémy.  
+> Verzia *v2* zatiaľ nie je dostupná v .exe formáte. Zistite viac na konci odseku [Niečo o programe](#nie%C4%8Do-o-programe)  
+> Súbory formátu .py môžete pokojne ignorovať. Slúžia vývojárom na lepšie pochopenie prípadných chýb v programe.  
 
 ## Čo program ponúka
 Tento program Vám po zadaní údajov vypočíta potrebné údaje ku schodisku v stavebnom výkrese:
@@ -18,7 +18,7 @@ Tento program Vám po zadaní údajov vypočíta potrebné údaje ku schodisku v
 - nárys, ako bude schodisko vyzerať (nepodporované vo verzií *v1*)
 
 ## Ako použiť program  
-**Odporúčam používať [najnovšiu verziu](https://github.com/yungcypo/navrhschodiska/tree/main/navrhschodiska-v2)**  
+<-- **Odporúčam používať [najnovšiu verziu](https://github.com/yungcypo/navrhschodiska/tree/main/navrhschodiska-v2)**  
 > *v0* je označenie pre verziu, ktorú ste si vybrali
 - Zo zložky s vybranou verziou si stiahnete súbor *vypocetschodiska-v0.zip*
 - Po stiahnutí tento súbor rozbalíte, a spustíte *vypocetschodiska-v0.exe*
@@ -42,6 +42,14 @@ Program je vytvorený v programovacom jazyku [Python](https://www.python.org/) s
 Verzia *v1* funguje výhradne pomocou konzoly. Nie je veľmi estetická, ale na výpočty poslúži dostatočne.  
 Verzia *v2* funguje pomocou konzoly na zadanie potrebných údajov, potom sa objaví nové okno, v ktorom je možno vidieť výsledky výpočtov a samotné schodiska.  
 Verzia *v3 (vo vývoji)* funguje výhradne pomocou okna.  
+
+**Verzia *v2* zatiaľ nie je dostupná v .exe formáte**  
+Vo verzií *v2* bola zistená chyba. Po jej opravení bude sprístupnený súbor .exe    
+Verzia sa dá použiť aj napriek chybe, ale je to trochu komplikovanejšie:
+- je potrebné si stiahnuť [Python](https://www.python.org/) a modul [pygame](https://www.pygame.org/news)
+- vysvetľovanie postupu by bolo veľmi zdĺhavé, preto sem pridávam [odkaz](https://www.youtube.com/watch?v=EKjALzLLgVs), ktorý Vám pomôže nainštalovať potrebný software
+- chyba by mala byť odstránená za pár dní, preto ak to nie je veľmi potrebné, nemusíte si inštalovať dodatočný software
+- ak súrne potrebujete výpočet s náčrtom, ale nechcete si tento software inštalovať, môžete ma [kontaktovať](#kontakt)  
 
 # Kontakt
 Ak niečo nefunguje správne, našli ste chybu, alebo máte nejaké otázky, prosím neváhajte ma kontaktovať na cypooriginal@gmail.com  

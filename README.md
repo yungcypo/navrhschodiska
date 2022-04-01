@@ -19,10 +19,10 @@ Tento program Vám po zadaní údajov vypočíta potrebné údaje ku schodisku v
 - nárys, ako bude schodisko skutočne vyzerať (nepodporované vo verzií *v1*)
 
 ## Ako použiť program  
- **Odporúčam používať [najnovšiu dostupnú verziu](navrhschodiska-v2.zip)**
-
+> Odporúčam používať [najnovšiu dostupnú verziu](navrhschodiska-v2.zip)
+**Postup inštalácie programu:**
 - Kliknete na súbor s označením verzie, ktorú ste si vybrali
-- Kliknete na tlačitko *download* nachádzajúce sa približne v strede obrazovky napravo. Súbor sa začne sťahovať
+- Kliknete na tlačidlo *download* nachádzajúce sa približne v strede obrazovky napravo. Súbor sa začne sťahovať
 - Pri súboroch formátu *.zip* treba súbor najprv rozbaliť
 - Po stiahnutí stačí otvoriť súbor *.exe* a riadiť sa pokynmi, ktoré bude program potrebovať
 

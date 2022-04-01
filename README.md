@@ -16,10 +16,10 @@ Tento program Vám po zadaní údajov vypočíta potrebné údaje ku schodisku v
 - ideálna výška stupňa, šírka stupňa a počet stupňov
 - sklon ramena  
 - podchodná a priechodná výška
-- nárys, ako bude schodisko vyzerať (nepodporované vo verzií *v1*)
+- nárys, ako bude schodisko skutočne vyzerať (nepodporované vo verzií *v1*)
 
 ## Ako použiť program  
-<!-- **Odporúčam používať [najnovšiu verziu]()** -->
+**Odporúčam používať [najnovšiu verziu](main/navrhschodiska-v1.exe)** -->
 
 - Kliknete na súbor s označením verzie, ktorú ste si vybrali
 - Kliknete na tlačitko *download* nachádzajúce sa približne v strede obrazovky napravo. Súbor sa začne sťahovať

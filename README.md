@@ -19,7 +19,7 @@ Tento program Vám po zadaní údajov vypočíta potrebné údaje ku schodisku v
 - nárys, ako bude schodisko skutočne vyzerať (nepodporované vo verzií *v1*)
 
 ## Ako použiť program  
- **Odporúčam používať [najnovšiu verziu](navrhschodiska-v1.exe)** -->
+ **Odporúčam používať [najnovšiu dostupnú verziu](navrhschodiska-v1.exe)**
 
 - Kliknete na súbor s označením verzie, ktorú ste si vybrali
 - Kliknete na tlačitko *download* nachádzajúce sa približne v strede obrazovky napravo. Súbor sa začne sťahovať

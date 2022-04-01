@@ -9,7 +9,7 @@
 
 > Program nie je určený na profesionálne použitie. Autor nenesie zodpovednosť za prípadné problémy.  
 > Verzia *v2* zatiaľ nie je dostupná v .exe formáte. Zistite viac na konci odseku [Niečo o programe](#nie%C4%8Do-o-programe)  
-> Súbory formátu .py môžete pokojne ignorovať. Slúžia vývojárom na lepšie pochopenie prípadných chýb v programe.  
+> Zložku *Python* môžete pokojne ignorovať. Slúži vývojárom na lepšie pochopenie prípadných chýb v programe.  
 
 ## Čo program ponúka
 Tento program Vám po zadaní údajov vypočíta potrebné údaje ku schodisku v stavebnom výkrese:
@@ -19,13 +19,11 @@ Tento program Vám po zadaní údajov vypočíta potrebné údaje ku schodisku v
 - nárys, ako bude schodisko vyzerať (nepodporované vo verzií *v1*)
 
 ## Ako použiť program  
-<!-- **Odporúčam používať [najnovšiu verziu](https://github.com/yungcypo/navrhschodiska/tree/main/navrhschodiska-v2)**  -->
-> *v0* je označenie pre verziu, ktorú ste si vybrali
-- Zo zložky s vybranou verziou si stiahnete súbor *vypocetschodiska-v0.zip*
-- Po stiahnutí tento súbor rozbalíte, a spustíte *vypocetschodiska-v0.exe*
-- Ďalej sa už len stačí riadiť pokynmi, ktoré bude program žiadať.
+<!-- **Odporúčam používať [najnovšiu verziu]()** -->
 
-Pre **stiahnutie súboru** stači otvoriť zložku s Vami vybranou verziou, ďalej otvoriť súbor *vypocetschodiska-v0.zip* a stlačit tlačidlo *download* nachádzajúce sa približne v strede obrazovky napravo.
+- Kliknete na súbor s označením verzie, ktorú ste si vybrali
+- Kliknete na tlačitko *download* nachádzajúce sa približne v strede obrazovky napravo. Súbor sa začne sťahovať
+- Po stiahnutí stačí súbor otvoriť a riadiť sa pokynmi, ktoré bude program potrebovať
 
 V **samotnom programe** bude potrebné zadať [konštrukčnú výšku](https://beliana.sav.sk/heslo/konstrukcna-vyska), počet stupňov schodiska, šírku ramena, podesty a medzipodesty, vo verzií *v2* aj šírku zrkadla.  
 Ak sú pre vás tieto pojmy neznáme, odporúčam Vám vyhľadať si [názvoslovie častí schodiska](https://www.novodrevis.sk/encyklopedia/nazvoslovie-technicke-poziadavky/)

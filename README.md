@@ -8,7 +8,7 @@
 [Kontakt](#kontakt)  
 
 > Program nie je určený na profesionálne použitie. Autor nenesie zodpovednosť za prípadné problémy.  
-> Verzia *v2* zatiaľ nie je dostupná v .exe formáte. Zistite viac na konci odseku [Niečo o programe](#nie%C4%8Do-o-programe)  
+> Verzia *v2* je zatiaľ vo vývoji. Zistite viac na konci odseku [Niečo o programe](#nie%C4%8Do-o-programe)  
 > Zložku *Python* môžete pokojne ignorovať. Slúži vývojárom na lepšie pochopenie prípadných chýb v programe.  
 
 ## Čo program ponúka
@@ -45,13 +45,9 @@ Verzia *v1* funguje výhradne pomocou konzoly. Nie je veľmi estetická, ale na 
 Verzia *v2* funguje pomocou konzoly na zadanie potrebných údajov, potom sa objaví nové okno, v ktorom je možno vidieť výsledky výpočtov a samotné schodisko.  
 Verzia *v3 (vo vývoji)* funguje výhradne pomocou okna.  
 
-**Verzia *v2* zatiaľ nie je dostupná v .exe formáte**  
-Vo verzií *v2* bola zistená chyba. Po jej opravení bude sprístupnený súbor .exe    
-Verzia sa dá použiť aj napriek chybe, ale je to trochu komplikovanejšie:
-- je potrebné si stiahnuť [Python](https://www.python.org/) a modul [pygame](https://www.pygame.org/news)
-- vysvetľovanie postupu by bolo veľmi zdĺhavé, preto sem pridávam [odkaz](https://www.youtube.com/watch?v=EKjALzLLgVs), ktorý Vám pomôže nainštalovať potrebný software
-- chyba by mala byť odstránená za pár dní, preto ak to nie je veľmi potrebné, nemusíte si inštalovať dodatočný software
-- ak súrne potrebujete výpočet s náčrtom, ale nechcete si tento software inštalovať, môžete ma [kontaktovať](#kontakt)  
+**Verzia *v2* je zatiaľ vo vývoji**  
+Vo verzií *v2* bola zistená chyba. Po jej opravení bude sprístupnený nový súbor .exe    
+Verzia sa dá použiť aj napriek chybe, program ale neukazuje všetky výsledky výpočtu 
 
 # Kontakt
 Ak niečo nefunguje správne, našli ste chybu, alebo máte nejaké otázky, prosím neváhajte ma kontaktovať na cypooriginal@gmail.com  

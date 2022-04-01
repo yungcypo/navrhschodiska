@@ -43,7 +43,7 @@ Program je vytvorený v programovacom jazyku [Python](https://www.python.org/) s
 - sys, os - v spojení s modulom pygame, pre právne fungovanie  
 
 Verzia *v1* funguje výhradne pomocou konzoly. Nie je veľmi estetická, ale na výpočty poslúži dostatočne.  
-Verzia *v2* funguje pomocou konzoly na zadanie potrebných údajov, potom sa objaví nové okno, v ktorom je možno vidieť výsledky výpočtov a samotné schodiska.  
+Verzia *v2* funguje pomocou konzoly na zadanie potrebných údajov, potom sa objaví nové okno, v ktorom je možno vidieť výsledky výpočtov a samotné schodisko.  
 Verzia *v3 (vo vývoji)* funguje výhradne pomocou okna.  
 
 **Verzia *v2* zatiaľ nie je dostupná v .exe formáte**  

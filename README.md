@@ -54,6 +54,6 @@ Verzia sa dá použiť aj napriek chybe, program ale neukazuje všetky výsledky
 Niečo nefunguje správne?  
 Našli ste chybu?  
 Máte nejaké otázky?  
-Prosím neváhajte ma kontaktovať na **cypooriginal@gmail.com**  
+**Prosím neváhajte ma kontaktovať na cypooriginal@gmail.com**  
 
 V prípade záujmu si môžte pozrieť aj moje [ďalšie projekty](https://github.com/yungcypo?tab=repositories)
